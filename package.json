@@ -10,5 +10,9 @@
     "lacerba"
   ],
   "author": "salvatoret3",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/SalvatoreT3/LacerbaCourse/find/master"
+  
+  }
 }
